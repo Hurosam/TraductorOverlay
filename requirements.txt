@@ -5,3 +5,4 @@ numpy==1.26.4
 opencv-python-headless==4.9.0.80
 pynput==1.7.6
 deep-translator==1.11.4
+langdetect==1.0.9
