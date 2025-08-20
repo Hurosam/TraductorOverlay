@@ -1,0 +1,7 @@
+Esto es una pequeña descripción.
+
+El python que uso es 3.12.5
+
+py -3.12 -m venv env
+
+python -m pip install -r requirements.txt
